@@ -1,5 +1,5 @@
 {
-  "name": "nextra-monorepo",
+  "name": "nextra-monorepo-edwin",
   "private": true,
   "packageManager": "pnpm@8.15.9",
   "scripts": {

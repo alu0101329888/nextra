@@ -1,5 +1,11 @@
 # nextra
 
+## 3.1.3
+
+### Patch Changes
+
+- Test
+
 ## 3.1.2
 
 ### Patch Changes
